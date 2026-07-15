@@ -1,8 +1,9 @@
 ## Hi there 👋
 My name is Ifrah Gul and I am a passionate student researcher leveraging Python, PyTorch, LLMs, and Hugging Face to build AI solutions.Experienced in Data Cleaning and EDA, utilizing VS Code, Jupyter, Kaggle, and Google Cloud to solve real-world problems.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on: Bridging the gap between academic research and practical industry applications by analyzing existing research gaps to design scalable solutions for real-world limitations.
+- 🌱 I’m currently learning: Advanced research methodologies, systemic evaluation frameworks, and modern technologies required to overcome current industry bottlenecks.
+- 👯 I’m looking to collaborate on: Applied research projects, open-source initiatives, or industry-level problem-solving ventures that target critical architectural and technical gaps.
+- 💬 Ask me about: Research gap analysis, transforming theoretical concepts into production-ready solutions, and identifying limitations in current industry workflows.
 
 
 <!--
